@@ -2,6 +2,7 @@
 .head{
     background-color:rgba(51,53,69);
     height:64px;
+    width:1519px
 }
 .navbar{display: flex;}
 .logo{padding-left: 152px;
